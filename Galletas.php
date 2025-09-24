@@ -11,7 +11,7 @@
 </head>
 <body>
 <h1 class="txt">Hecho por María José Viafara (2438446)</h1>
- 
+<h1 class="txt">Metodologías de Desarollo de Software</h1>
 
     <h2 class= "nombre">RECETA DE GALLETAS</h2>
     <img class="header" src="Img/header.jpg" />
